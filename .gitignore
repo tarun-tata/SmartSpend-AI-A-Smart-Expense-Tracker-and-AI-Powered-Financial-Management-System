@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+ENV/
+env/
+
+# Environments
+.env
+
+# Data and Logs
+app.log
+expenses.csv
+test_expenses.csv
+
+# IDEs
+.vscode/
+.idea/
+.trae/
