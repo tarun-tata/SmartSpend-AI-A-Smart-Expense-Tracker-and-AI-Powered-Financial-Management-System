@@ -19,7 +19,7 @@ A professional and operational expense tracking application built with Python an
 1. **Clone the repository**:
    ```bash
    git clone <repository-url>
-   cd "Smart Expense Tracker"
+   cd "Smart Spend AI"
    ```
 
 2. **Install dependencies**:
