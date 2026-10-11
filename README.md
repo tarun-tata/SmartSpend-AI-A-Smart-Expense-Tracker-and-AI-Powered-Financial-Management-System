@@ -37,7 +37,7 @@ A professional and operational expense tracking application built with Python an
    python expense.py
    ```
 
-## Project Structure
+## Structure of the Project
 
 - `expense.py`: Main application entry point and UI logic.
 - `data_manager.py`: Handles CSV data operations and summary calculations.
