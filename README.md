@@ -48,4 +48,4 @@ A professional and operational expense tracking application built with Python an
 
 ## Contributing
 
-Feel free to fork and submit pull requests guys.
+Feel free to fork and submit pull requests.
